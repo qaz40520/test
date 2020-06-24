@@ -39,6 +39,8 @@ php artisan migrate
 
 ## Socail Login
 
+Login feature is based on native package, when you install whole thing, in index page have Login and Register button.
+
 go to `/login` page will see two button, fb and line login
 
 click button will go to their auth page then callback to login
