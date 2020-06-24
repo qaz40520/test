@@ -20,7 +20,6 @@ like :
 FB_CLIENT_ID={fb_client_id}
 FB_CLIENT_SECRET={fb_client_secret}
 FB_REDIRECT={your_domain}/user/auth/fb-callback
-FB_VERSION=v7.0
 
 LINE_CHANNEL_ID={line_channel_id}
 LINE_CHANNEL_SECRET={line_channel_secret}
