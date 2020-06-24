@@ -43,16 +43,14 @@ go to `/login` page will see two button, fb and line login
 
 click button will go to their auth page then callback to login
 
-check users table, should be:
-
+check users table, should be
 |id|name|email|email_verfied_at|password|remember_token|created_at|updated_at|facebook_id|line_id|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|JasonYang|example1@gmail.com|NULL|password_hash|NULL|2020-06-23 01:01:01|2020-06-23 01:01:02|11111|NULL|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|XYZ|example1@gmail.com|NULL|password_hash|NULL|2020-06-23 01:01:01|2020-06-23 01:01:02|11111|NULL|
 |2|Foo|example2@gmail.com|NULL|password_hash|NULL|2020-06-23 01:01:01|2020-06-23 01:01:02|NULL|22222|
 |3|Bar|example2@gmail.com|NULL|password_hash|NULL|2020-06-23 01:01:01|2020-06-23 01:01:02|123456789|987654321|
-|4|Test|example3@gmail.com|NULL|password_hash|NULL|2020-06-23 01:01:01|2020-06-23 01:01:02|NULL|NULL|
-|...|...|...|...|...|...|...|...|...|...|...|
-
+|4|ABC|example3@gmail.com|NULL|password_hash|NULL|2020-06-23 01:01:01|2020-06-23 01:01:02|NULL|NULL|
+|...|...|...|...|...|...|...|...|...|...|
 
 ## Weather Crawler
 
