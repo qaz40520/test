@@ -27,6 +27,7 @@ php artisan key:generate</code></pre>
 Install auth
 <pre><code>php artisan ui vue --auth  //question reply no
 npm install && npm run dev
+php artisan migrate
 </code></pre>
 
 ## Socail Login
