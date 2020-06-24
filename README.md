@@ -1,4 +1,4 @@
-## For Test
+## Installation
 
 <pre><code>cp .env.example .env
 </code></pre>
