@@ -25,7 +25,7 @@ Install Laravel
 php artisan key:generate</code></pre>
 
 Install auth
-<pre><code>php artisan ui vue --auth
+<pre><code>php artisan ui vue --auth  //question reply no
 npm install && npm run dev
 </code></pre>
 
