@@ -76,7 +76,7 @@ some issue from Laradock
 
 there's a issue about mysql
 
-PLEASE notice Laradock's .env file , their mysql section defined default root user, default user, 
+PLEASE notice Laradock's .env file , their mysql section defined root user, default user, 
 
 when you clone a laravel package, I have some suggestion to your mysql section in laravel .env file 
 <pre><code>
@@ -96,4 +96,4 @@ DB_DATABASE={your_db}
 DB_USERNAME={your_db_user}
 DB_PASSWORD={your_db_user_pw}</code></pre> 
 
-and make sure your db user can access to db
+and make sure your db user can access db
