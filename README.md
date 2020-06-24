@@ -8,7 +8,7 @@ like :
 
 <pre><code>// Facebook redirect url must use SSL
 // in this case, I use LaraDock
-// LaraDock's .env file has 443 port option in Nginx , remove comment then you got https
+// Laradock/nginx/sites/{your_config_file} #For https this section, remove comment then you got https
 FB_CLIENT_ID={fb_client_id}
 FB_CLIENT_SECRET={fb_client_secret}
 FB_REDIRECT={your_domain}/user/auth/fb-callback
